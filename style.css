@@ -1,14 +1,10 @@
 @font-face {
-	font-family: 'fira';
-	src:  url('FiraCode-Retina.ttf') format('ttf'),
-	local('FiraCode-Retina');
+	font-family: monospace;
 	font-style: normal;
 	font-weight: normal;
 }
 @font-face {
-	font-family: 'fira';
-	src:  url('FiraCode-Light.ttf') format('ttf'),
-	local('FiraCode-Light');
+	font-family: monospace;
 	font-style: normal;
 	font-weight: lighter;
 
@@ -24,7 +20,7 @@ html, body{
 }
 
 * {
-	font-family: 'fira';
+	font-family: monospace;
 	font-weight: lighter;
 }
 
@@ -81,12 +77,12 @@ html, body{
 
 .linksbox a.cyan:hover {
 	color: #4babdb;
-	text-decoration: underline;
+	
 }
 
 .linksbox a.red:hover {
 	color: #ff5c57;
-	text-decoration: underline;
+	
 }
 
 h3 {
