@@ -1,6 +1,6 @@
 My daily firefox setup.
 
-![Screenshot](https://screenshots.firefox.com/zQuu2XvUifa2K0Hu/oodil.github.io)
+![Screenshot](screenshot.png)
 
 # Things to add: 
 
