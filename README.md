@@ -1,4 +1,4 @@
-My daily firefox setup.
+My terminal-inspired firefox homepage.
 
 ![Screenshot](screenshot.png)
 
