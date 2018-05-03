@@ -1,6 +1,7 @@
-# Start-Page
-My firefox start-page. I've removed sensitive URLs, however the general layout is the same.
+My daily firefox setup.
 
-# Usage
-Check [/r/startpages](https://www.reddit.com/r/startpages/) to find out how to use it with your specific browser.
+# Things to add: 
+
+1. Light terminal theme to match browser
+2. Display the day's Todoist tasks
 
