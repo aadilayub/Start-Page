@@ -6,7 +6,7 @@ My terminal-inspired firefox homepage.
 
 # Things to add: 
 
-1. Light terminal theme to match browser
+1. Second row of boxes
 2. Remove search bar
 3. Display the day's Todoist tasks
 
